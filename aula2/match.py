@@ -16,4 +16,4 @@ match dia:
     case 7:
         print('Sabado')
     case _ :
-       print('valor inválido')
+       print('valor inaválido')
